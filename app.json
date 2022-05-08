@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "scheme": "jordanpp",
+    "name": "xspexpo",
+    "slug": "xspexpo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logos/icon.png",
+    "splash": {
+      "image": "./src/assets/logos/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/logos/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./src/assets/logos/favicon.png"
+    },
+    "description": "This  estimator app is under development mode, This is testing purpose"
+  }
+}
